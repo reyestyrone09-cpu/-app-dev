@@ -20,11 +20,8 @@ I like American Psycho because of its unique storytelling, psychological themes,
 ### My Rating
 **10/10**
 
-
 ### Movie GIF
 
-
-### Movie GIF
-
-![Patrick Bateman GIF](https://github.com/user-attachments/assets/5d297b0f-13d5-44fd-a33f-c6dd063fb712)
-
+<p align="center">
+  <img width="500" height="281" alt="Patrick Bateman - American Psycho" src="https://github.com/user-attachments/assets/e8ec0775-a124-4a43-8a87-04856e52ecb4" />
+</p>
